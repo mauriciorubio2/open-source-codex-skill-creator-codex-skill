@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Source Codex Skill Creator"
+  short_description: "Publish open source Codex skills"
+  default_prompt: "Use $open-source-codex-skill-creator to create, validate, and publish a public MIT-licensed Codex skill."
