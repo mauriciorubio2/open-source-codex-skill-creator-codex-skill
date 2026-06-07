@@ -7,7 +7,7 @@ This skill incorporates the official `skill-creator` workflow as the scaffold an
 ## Install
 
 ```bash
-python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo mauriciorubio2/open-source-codex-skill-creator --path skills/open-source-codex-skill-creator
+python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo mauriciorubio2/open-source-codex-skill-creator-codex-skill --path skills/open-source-codex-skill-creator
 ```
 
 Restart Codex after installing so the skill is discovered.
